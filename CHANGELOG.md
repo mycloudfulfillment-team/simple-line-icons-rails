@@ -16,3 +16,6 @@
 
 ## v0.1.7
 * support all Rails 7 versions
+
+## v0.1.8
+* support Rails 8.0

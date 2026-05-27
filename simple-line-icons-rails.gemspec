@@ -18,8 +18,9 @@ Gem::Specification.new do |spec|
   spec.test_files    = Dir["test/**/*"]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "railties", ">= 3.2", "< 8"
+  spec.add_dependency "railties", ">= 3.2", "< 9"
 
   spec.add_development_dependency "activesupport"
   spec.add_development_dependency "sass-rails"
+  spec.add_development_dependency "minitest", "~> 5.0"
 end

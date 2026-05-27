@@ -1,0 +1,9 @@
+//= link Simple-Line-Icons.eot
+//= link Simple-Line-Icons.ttf
+//= link Simple-Line-Icons.woff
+//= link Simple-Line-Icons.woff2
+//= link Simple-Line-Icons.svg
+//= link simple-line-icons.css
+//= link sprockets-require.css
+//= link sass-import.css
+//= link scss-import.css
